@@ -5,7 +5,7 @@ include 'win32wx.inc'
 
 .data 
 
-_str du '我是中国人', 0 
+_str du 'Ћирилица Караџића Вука', 0 
 _str2 du 'hello world1!', 0Dh, 0Ah, 'hello world2!', 0Dh, 0Ah, 'hello world3!', 0Dh, 0Ah
 
 .code 
